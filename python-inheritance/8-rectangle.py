@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 8-rectangle.py
 """Defines a class Rectangle that inherits from BaseGeometry."""
