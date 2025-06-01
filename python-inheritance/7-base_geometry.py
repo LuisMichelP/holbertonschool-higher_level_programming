@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-"""
-A integer validator module
-"""
-
+# 7-base_geometry.py
+"""Defines a base geometry class BaseGeometry."""
 
 class BaseGeometry:
     """
